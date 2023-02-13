@@ -1,4 +1,3 @@
-
 export default {    
     experience: {
         education: [
@@ -15,12 +14,12 @@ export default {
         ],
         jobs: [
             {
-                title: 'Service Proxies Support @ Gentera',
+                title: 'Java Developer @ Gentera',
                 time: 'August 2021 - Present',
-                description: 'Support, configuration and deployment of service proxies made in Spring to connect different APIs inside the organization and translate requests from SOAP to REST.<br> Mapping and documentation using Swagger/OpenAPI Specification and Postman.'
+                description: 'Support, configuration and development of web services in Spring Framework to connect different APIs (SOAP/REST) inside the organization. <br>Mapping and documentation using Swagger/OpenAPI Specification and Postman. I also used Apigee to develop API proxies.'
             },
             {
-                title: 'Social service @ IPN CIITA Veracruz',
+                title: 'Internship @ IPN CIITA Veracruz',
                 time: 'February - September 2021',
                 description: 'Development of a web page with other students to support tourism in the city of Papantla, Veracruz.<br>Information was collected and processed to be displayed dynamically on the page.'
             }
